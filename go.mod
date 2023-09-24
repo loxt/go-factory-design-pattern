@@ -1,3 +1,3 @@
-module go-factory-design-pattern
+module github.com/loxt/go-factory-design-pattern
 
 go 1.20
